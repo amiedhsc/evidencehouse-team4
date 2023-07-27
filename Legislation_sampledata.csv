@@ -1,0 +1,39 @@
+BillID,BillName,AmmendmentID,AmmendmentDesc,Date,TabledBy,Themes,Accepted
+0517,Animal Welfare (Kept Animals),15,,27/07/2023,Kemi Badenoch; Baroness Billingham; Dawn Butler,Animals,
+0517,Animal Welfare (Kept Animals),14,,20/07/2023,Kemi Badenoch; Baroness Billingham,Animals,
+0517,Animal Welfare (Kept Animals),13,,13/07/2023,Kemi Badenoch,Animals,Y
+0517,Animal Welfare (Kept Animals),12,,06/07/2023,Kemi Badenoch,Animals,N
+0517,Animal Welfare (Kept Animals),11,,29/06/2023,Kemi Badenoch,Animals,N
+0517,Animal Welfare (Kept Animals),10,,22/06/2023,Kemi Badenoch,Animals,N
+0517,Animal Welfare (Kept Animals),9,,15/06/2023,Kemi Badenoch,Animals,N
+0517,Animal Welfare (Kept Animals),8,,08/06/2023,Kemi Badenoch,Animals,N
+0517,Animal Welfare (Kept Animals),7,,01/06/2023,Kemi Badenoch,Animals,N
+0517,Animal Welfare (Kept Animals),6,,25/05/2023,Kemi Badenoch,Immigration,Y
+0517,Animal Welfare (Kept Animals),5,,18/05/2023,Diane Abbot; Baroness Billingham,China,Y
+0517,Animal Welfare (Kept Animals),4,,11/05/2023,Diane Abbot; Baroness Billingham,Animals,Y
+0517,Animal Welfare (Kept Animals),3,,04/05/2023,Diane Abbot; Baroness Billingham,Animals,Y
+0517,Animal Welfare (Kept Animals),2,,27/04/2023,Diane Abbot; Baroness Billingham,Animals,Y
+0517,Animal Welfare (Kept Animals),1,,20/04/2023,Diane Abbot; Baroness Billingham,Animals,Y
+0517,Animal Welfare (Kept Animals),13,,10/04/2022,Diane Abbot,Animals,Y
+0517,Animal Welfare (Kept Animals),12,,01/04/2022,Diane Abbot,Animals,N
+0517,Animal Welfare (Kept Animals),11,,23/03/2022,Dawn Butler,Animals,Y
+0517,Animal Welfare (Kept Animals),10,,14/03/2022,Dawn Butler,Animals,N
+0517,Animal Welfare (Kept Animals),9,,05/03/2022,Dawn Butler,Immigration,Y
+0517,Animal Welfare (Kept Animals),8,,24/02/2022,Dawn Butler,Immigration,N
+0517,Animal Welfare (Kept Animals),7,,15/02/2022,Dawn Butler,Defence,Y
+0517,Animal Welfare (Kept Animals),6,,06/02/2022,Dawn Butler,China,N
+0517,Animal Welfare (Kept Animals),5,,28/01/2022,Dawn Butler,Animals,N
+0517,Animal Welfare (Kept Animals),4,,19/01/2022,Dawn Butler,Defence,N
+0517,Animal Welfare (Kept Animals),3,,10/01/2022,Dawn Butler,Immigration,Y
+0517,Animal Welfare (Kept Animals),2,,01/01/2022,Dawn Butler,Animals,Y
+0517,Animal Welfare (Kept Animals),1,,23/12/2021,Dawn Butler,Animals,Y
+0714,Northern Ireland Troubles (Legacy and Reconciliation),10,,26/07/2023,Dawn Butler,Northern Ireland,
+0714,Northern Ireland Troubles (Legacy and Reconciliation),9,,20/07/2023,Dawn Butler,Defence,
+0714,Northern Ireland Troubles (Legacy and Reconciliation),8,,14/07/2023,Dawn Butler,Immigration,N
+0714,Northern Ireland Troubles (Legacy and Reconciliation),7,,08/07/2023,Dawn Butler,Animals,N
+0714,Northern Ireland Troubles (Legacy and Reconciliation),6,,02/07/2023,Dawn Butler,China,Y
+0714,Northern Ireland Troubles (Legacy and Reconciliation),5,,26/06/2023,Dawn Butler,Northern Ireland,Y
+0714,Northern Ireland Troubles (Legacy and Reconciliation),4,,20/06/2023,Lord Bellamy; Baroness Billingham,Defence,Y
+0714,Northern Ireland Troubles (Legacy and Reconciliation),3,,14/06/2023,Lord Bellamy,Immigration,Y
+0714,Northern Ireland Troubles (Legacy and Reconciliation),2,,08/06/2023,Lord Bellamy,Animals,N
+0714,Northern Ireland Troubles (Legacy and Reconciliation),1,,02/06/2023,Lord Bellamy,China,N
