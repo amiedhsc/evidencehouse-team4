@@ -1,4 +1,4 @@
-BillID,BillName,AmmendmentID,AmmendmentDesc,Date,TabledBy,Themes,Accepted
+BillID,Bill Name,AmmendmentID,Ammendment Description,Date,Tabled By,Theme,Accepted
 517,Animal Welfare (Kept Animals),15,Recognition of Animals as Sentient Beings,27/07/2023,Kemi Badenoch; Baroness Billingham; Dawn Butler,Animals,
 714,Northern Ireland Troubles (Legacy and Reconciliation),10,Oversight and Accountability,26/07/2023,Dawn Butler,Northern Ireland,
 517,Animal Welfare (Kept Animals),14,Strengthened Animal Cruelty Laws,20/07/2023,Kemi Badenoch; Baroness Billingham,Animals,
