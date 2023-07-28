@@ -1,18 +1,18 @@
 mp_data <- read.csv("LegislationMPs_sampledata.csv")
 amend_data <- read.csv("Legislation_sampledata.csv")
 
+mp_data <- mp_data %>% select(Name, Party) %>% distinct()
 amend_data <- amend_data %>% select(BillID,AmmendmentID,TabledBy) %>% unite(ID, c("BillID", "AmmendmentID")) %>% 
   mutate(splitTB = strsplit(TabledBy, "; ")) %>% unnest(splitTB) %>% select(-"TabledBy")
-mp_data <- mp_data %>% select(Name, Party) %>% distinct()
 
 matrix <- crossprod(table(amend_data[1:2]))
 diag(matrix) <- 0
 matrix <- as.data.frame(matrix)
 
 va <- matrix %>%
-  dplyr::mutate(Persona = rownames(.),
+  dplyr::mutate(Person = rownames(.),
                 Occurrences = rowSums(.)) %>%
-  dplyr::select(Persona, Occurrences)
+  dplyr::select(Person, Occurrences)
 
 ed <- matrix %>%
   dplyr::mutate(from = rownames(.)) %>%
@@ -38,7 +38,7 @@ tg %>%
                 aes(edge_width = weight,
                     alpha = weight)) +
   geom_node_point(size=log(v.size)*5, 
-                  aes(color=dummy_mp$party)) +
+                  aes(color=mp_data$Party)) +
   labs(color = "Party") +
   geom_node_text(aes(label = name), 
                  repel = TRUE, 
